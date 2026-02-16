@@ -1,0 +1,12 @@
+{
+  "name": "postgres-db-api",
+  "version": "1.0.0",
+  "description": "PostgreSQL Database API Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
